@@ -1,0 +1,21 @@
+# Maven
+build/
+target/
+test_reports/
+logs/
+
+# Gradle
+.gradle
+gradle
+gradlew.bat
+gradlew
+
+# Log file
+*.log
+
+# idea project files
+/.idea/
+
+# h2 database files
+*.mv.db
+*.trace.db
